@@ -1,0 +1,1 @@
+explain select * from question_submit where userId = 1816862983346069505
